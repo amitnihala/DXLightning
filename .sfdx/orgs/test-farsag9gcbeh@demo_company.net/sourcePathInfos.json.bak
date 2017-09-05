@@ -1,0 +1,182 @@
+[
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504599794553,
+            "changeTime": 1504599794553,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504599794554,
+            "changeTime": 1504599794554,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504599794554,
+            "changeTime": 1504599794554,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504601422558,
+            "changeTime": 1504601422558,
+            "contentHash": "3601514d28ca0d485debc93d430758aa9013b158",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504601422624,
+            "changeTime": 1504601422624,
+            "contentHash": "ab77b7c978f6ddb54ceeaab03384b5554abcf0e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1618,
+            "modifiedTime": 1504601456310,
+            "changeTime": 1504601456310,
+            "contentHash": "08a5acc6dbf50610efd9dc490dd6312f9792edb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1504601422560,
+            "changeTime": 1504601422560,
+            "contentHash": "12b3cfa0ce046b2cb6eae2d96c51d61cc23c5ffc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotact.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1504601422621,
+            "changeTime": 1504601422621,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 245,
+            "modifiedTime": 1504601483643,
+            "changeTime": 1504601483643,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1504601422613,
+            "changeTime": 1504601422613,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning\\force-app\\main\\default\\aura\\quickCotact\\quickCotactRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1504601422625,
+            "changeTime": 1504601422625,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\DXLightning",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\DXLightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504601557884,
+            "changeTime": 1504601557884,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
